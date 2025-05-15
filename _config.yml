@@ -16,7 +16,6 @@
 title: Tirthankar De
 email: tirthankar_d@ph.iitr.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
-  Astrophysics | AI | Anime
 twitter_username: username
 github_username: Tirthankar4
 minimal_mistakes_skin: neon
@@ -58,7 +57,7 @@ plugins:
 author:
   name   : "Hi there! I'm Tirthankar"
   avatar : "/assets/images/galaxy.jpg"
-  bio    : "I am currently a physics undergrad at IIT Roorkee. I am interested in computational astrophysics and scientific machine learning. Apart from these I am also a huge fan of anime."
+  bio    : "Astrophysics | AI | Anime"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
