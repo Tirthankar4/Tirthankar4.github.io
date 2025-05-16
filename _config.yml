@@ -60,7 +60,7 @@ plugins:
 author:
   name   : ""
   avatar : "/assets/images/dp.webp"
-  bio    : "Astrophysics | AI | Anime"
+  bio    : 'Astrophysics | AI | Anime'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
