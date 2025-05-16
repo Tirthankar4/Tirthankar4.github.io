@@ -13,6 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+custom_css:
+  - /assets/css/custom.scss
+
 title: Tirthankar De
 email: tirthankar_d@ph.iitr.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
@@ -20,9 +24,6 @@ twitter_username: username
 github_username: Tirthankar4
 minimal_mistakes_skin: neon
 search: true
-
-custom_css:
-  - /assets/css/custom.scss
 
 # Build settings
 markdown: kramdown
