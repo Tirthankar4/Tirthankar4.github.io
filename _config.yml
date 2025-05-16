@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "AniPianics"
   avatar : "/assets/images/dp.webp"
   bio    : "Astrophysics, AI & Anime"
   links:
@@ -94,11 +94,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      category_archive:
+        type: liquid
+        path: /categories/
+      tag_archive:
+        type: liquid
+        path: /tags/
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
 
