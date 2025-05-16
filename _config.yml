@@ -21,9 +21,6 @@ github_username: Tirthankar4
 minimal_mistakes_skin: neon
 search: true
 
-custom_css:
-  - /assets/css/custom.scss
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
