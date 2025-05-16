@@ -3,9 +3,6 @@ layout: single
 title: "Home"
 author_profile: true
 permalink: /
-header:
-  overlay_color: "transparent"
-  overlay_filter: 0.0
 ---
 
 <style>
