@@ -21,6 +21,9 @@ github_username: Tirthankar4
 minimal_mistakes_skin: neon
 search: true
 
+custom_css:
+  - /assets/css/custom.scss
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -55,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hi there! I'm Tirthankar"
+  name   : ""
   avatar : "/assets/images/dp.webp"
   bio    : "Astrophysics | AI | Anime"
   links:
