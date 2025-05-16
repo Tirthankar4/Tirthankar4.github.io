@@ -5,6 +5,15 @@ author_profile: true
 permalink: /
 ---
 
+<style>
+body {
+  background-image: url('/assets/images/far.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
+
 Hello there, thanks for stopping by my website 👋
 
 I am Tirthankar, a BS-MS Physics student at the Indian Institute of Technology Roorkee (class of 2028).
