@@ -55,13 +55,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "AniPianics"
   avatar : "/assets/images/dp.webp"
   bio    : "Astrophysics, AI & Anime"
   links:
-    - label: "email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:irthankar_d@ph.iitr.ac.in"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Tirthankar4"
