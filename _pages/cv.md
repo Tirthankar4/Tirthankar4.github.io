@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 body {
-  background-image: url('/assets/images/far 2.jpg');
+  background-image: url('/assets/images/far 3.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
