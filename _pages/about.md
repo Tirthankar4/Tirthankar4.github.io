@@ -3,18 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Hello there, thanks for stopping by my website 👋
+Hey! I’m Tirthankar, a physics undergrad at IIT Roorkee with a passion for computational astrophysics and scientific machine learning. I love exploring how the universe works-whether it’s galaxy clusters, AGNs, radio astronomy, or the cosmic web-and I’m especially interested in using modern ML tools to tackle big questions in astrophysics.
 
-I am Tirthankar, a BS-MS Physics student at the Indian Institute of Technology Roorkee (class of 2028).
+Most of my research and projects revolve around applying machine learning to real-world problems in astronomy and physics. I’ve built Physics-Informed Neural Networks (PINNs) to solve cosmological equations, developed algorithms for creating high-resolution elemental maps from XRF data, and worked on ML models for classifying stars and galaxies. I’m always looking for ways to make sense of huge datasets, whether it’s from telescopes or simulations.
 
-I am currently a remote research intern at the Fields Institute of Mathematical Sciences, where I am exploring the realm of surrogate models for hydrodynamical systems under self gravity using Physics Informed Neural Networks (PINNs).
+I’ve also interned as a machine learning developer in the industry, where I built models for tasks like fraud detection and spam classification. Along the way, I’ve picked up experience with Python, PyTorch, Scikit-learn, and a bunch of other data science and astronomy libraries.
 
-I am mainly interested in the intersection of computational astrophysics 🌌 and scientific machine learning 🤖.
+I love learning from the global astro and AI community-I've attended workshops and schools on topics like radio interferometry, deep learning for astronomy, and advanced AI methods. I’m also active in outreach and mentoring, helping organize events with the Physics and Astronomy Club at IIT Roorkee and volunteering as a citizen scientist on projects like Gravity Spy (LIGO) and Hubble Asteroid Hunter.
 
-Large scale structures of the Universe and galaxies excite me a lot. Apart from that exoplanets are also something I recently got interested in.
-
-Apart from these, I am also a huge fan of anime; and also really like the piano 🎹. 
-
-Please have a look at my projects page as well. For more info you can also check out my CV.
-
-Thanks for the visit ✨.
+Outside of research, you’ll probably find me watching anime, playing the piano, or geeking out over new discoveries in space. If you’re into computational astrophysics, ML, or just want to chat about the universe, let’s connect!
