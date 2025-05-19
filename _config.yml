@@ -59,7 +59,7 @@ author:
   avatar : "/assets/images/dp.webp"
   bio    : "Astrophysics, AI & Anime"
   links:
-    - label: "email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:irthankar_d@ph.iitr.ac.in"
     - label: "GitHub"
