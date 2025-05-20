@@ -25,3 +25,5 @@ I am mainly interested in the intersection of computational astrophysics 🌌 an
 Please have a look at my projects page as well. For more info you can also check out my CV.
 
 Thanks for the visit ✨.
+
+{% include linkedin_badge.html %}
