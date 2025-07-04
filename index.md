@@ -14,11 +14,11 @@ body {
 }
 </style>
 
-Hello there, thanks for stopping by my website 👋
+Hello there
 
 I am Tirthankar, a BS-MS Physics student at the Indian Institute of Technology Roorkee (class of 2028).
 
-I am currently a remote research intern at the Fields Institute of Mathematical Sciences, where I am exploring the realm of surrogate models for hydrodynamical systems under self gravity using Physics Informed Neural Networks (PINNs).
+I am currently a remote research intern at the Fields Institute of Mathematical Sciences, where I am developing surrogate models for hydrodynamical systems under self gravity using Physics Informed Neural Networks (PINNs).
 
 I am mainly interested in the intersection of computational astrophysics 🌌 and scientific machine learning 🤖.
 
