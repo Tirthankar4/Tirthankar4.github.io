@@ -20,7 +20,7 @@ Extended the GRINN framework (*Sayantan Auddy et al.*) for learning of perturbat
 <a href="https://github.com/sauddy/GRINN/tree/Tirthankar_changes/GRINN_torch_code" target="_blank"><i class="fab fa-github"></i></a>
 <a href="https://drive.google.com/file/d/1d-0Xry4eMjdDORhqB34QrmpH1CXIat2c/view?usp=sharing" target="_blank"><i class="fas fa-file-alt"></i></a>
 <p align="center">
-  <img src="/assets/images/Architecture.png" width="500" styple="margin: 10px;">
+  <img src="/assets/images/Architecture.png" width="400" styple="margin: 10px;">
 </p>
 
 - **Elemental Maps of Lunar Surface**
@@ -31,3 +31,18 @@ Tackled the high prep problem statement of ISRO on the analysis of 5 years worth
   <img src="/assets/images/GMM.png" width="200" style="margin: 10px;">
   <img src="/assets/images/Al_by_Si.jpg" width="200" style="margin: 10px;">
 </p>
+
+- **Gamma Ray Detector Calibration using ML**
+
+Implemented an automated system for calibrating gamma ray detectors using classical ML techniques. Uses an automatic peak finder and quadratic regressor for mapping detector channels to energy values.
+<a href="https://github.com/Tirthankar4/Automatic-detector-calibraton-using-ML" target="_blank"><i class="fab fa-github"></i></a>
+
+- **Identifying exoplanet candidates using ML**
+
+Analysed TIC and CTL catalog data from TESS and made models for identifying exoplanet candidates in a 1° spherical region around M67.
+<a href="https://github.com/Tirthankar4/BRICS-IDIA" target="_blank"><i class="fab fa-github"></i></a>
+
+- **Using PINNs to solve differential equations**
+
+Developed a PINN model to solve the first Friedmann equation for a flat matter dominated Universe and compared its performance with a standard feedforward neural network.
+<a href="https://drive.google.com/file/d/1PD2slY2IcoTe-x52IuKODNnKcKS1j-fi/view?usp=sharing" target="_blank"><i class="fas fa-file-alt"></i></a>
