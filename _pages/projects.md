@@ -18,7 +18,7 @@ body {
 
 Extended the GRINN framework (*Sayantan Auddy et al.*) for learning of perturbation strength as a parameter, taking the first steps in fast surrogate modelling of molecular clouds across various initial and boundary conditions.
 <a href="https://github.com/sauddy/GRINN/tree/Tirthankar_changes/GRINN_torch_code" target="_blank"><i class="fab fa-github"></i></a>
-<a href="https://drive.google.com/file/d/1d-0Xry4eMjdDORhqB34QrmpH1CXIat2c/view?usp=sharing" target="_blank"><i class="fas fa-file-alt"></i></a>
+<a href="https://drive.google.com/file/d/1_M7KR4AjUgOcl4Sb0Hsd8FRq2y2JMdgl/view?usp=sharing" target="_blank"><i class="fas fa-file-alt"></i></a>
 <p align="center">
   <img src="/assets/images/Architecture.png" width="400" styple="margin: 10px;">
 </p>
